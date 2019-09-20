@@ -1,9 +1,9 @@
 # bot-jones
 Install In Termux :
-$ pkg install git\n
-$ pkg instal python2
-$ pkg install requests
-$ https://github.com/Rusmana-ID/bot-jones
-$ cd bot-jones
-$ sh jones.sh
+_$ pkg install git
+_$ pkg instal python2
+_$ pkg install requests
+_$ https://github.com/Rusmana-ID/bot-jones
+_$ cd bot-jones
+_$ sh jones.sh
 
